@@ -4,19 +4,16 @@ main:
     url: /publications/
 
   - title: "Research"
-    url: /talks/    
+    url: /research/    
 
   - title: "Conferences"
-    url: /teaching/    
+    url: /conferences/    
     
   - title: "Coursework"
-    url: /portfolio/
-        
-  - title: "Blog"
-    url: /year-archive/
+    url: /coursework/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Contact Me"
+    url: /contact/
