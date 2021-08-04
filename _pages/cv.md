@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 
 EDUCATION
 ======
@@ -19,7 +20,7 @@ RESEARCH EXPERIENCE
 * Research Assistant : Sept. 2018 - April 2021 
   * Grimsey Lab
   * Duties included:
-       Develop FRET biosensors using molecular cloning techniques including:
+  *     Develop FRET biosensors using molecular cloning techniques including:
        Culture EA cells, HEK 293 cells, HeLa cells, and retinal organoids with aseptic tissue culture techniques.   
        
   * Principal Investigator: Neil Grimsey, Ph.D.
@@ -29,10 +30,10 @@ RELEVANT WORK EXPERIENCE
 * Pharmacy Technician : Dec. 2017 - July 2021
   * Publix Pharmacy
   * Duties included: 
-      Calculate and dispense prescription medications
-      Enter patient profiles and prescriptions into input software system
-      Check pharmacy inventory and manage orders
-      Answer patient questions and report adverse drug reactinos
+      *Calculate and dispense prescription medications
+      *Enter patient profiles and prescriptions into input software system
+      *Check pharmacy inventory and manage orders
+      *Answer patient questions and report adverse drug reactinos
   * Pharmacy Manager: Tracey Lipscombe, Pharm.D.
   
 HONORS AND AWARDS
