@@ -21,6 +21,7 @@ Research Experience
   * Grimsey Lab
   * Principal Investigator: Neil Grimsey, Ph.D.
   * Duties included: 
+        
         * Develop FRET biosensors using molecular cloning techniques including:
         * Design and conduct FRET assays, signaling assays, siRNA knockdowns, protein purification, and western blotting
         * Image and assess cells transfected with fluorescent biosensors using confocal microscopy techniques
@@ -33,6 +34,7 @@ Relevant Work Experience
   * Publix Pharmacy
   * Pharmacy Manager: Tracey Lipscombe, Pharm.D.
   * Duties included: 
+        
         * Calculate and dispense prescription medications
         * Enter patient profiles and prescriptions into input software system
         * Check pharmacy inventory and manage orders
