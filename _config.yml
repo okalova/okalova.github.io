@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Jennifer Okáľová"
   avatar           : "profile.png"
-  bio              : "Incoming Molecular & Systems Pharmacology Ph.D. Student"
+  bio              : "Molecular & Systems Pharmacology Ph.D. Student"
   location         : "Emory University"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=jennifer+okalova"
+  pubmed           :"https://www.ncbi.nlm.nih.gov/pubmed/?term=jennifer+okalova"
   googlescholar    : 
   email            :
   researchgate     :  
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jenniferokalova"
+  linkedin         :"https://www.linkedin.com/in/jenniferokalova"
   orcid            : 
   pinterest        :
   soundcloud       :
