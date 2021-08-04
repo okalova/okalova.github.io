@@ -27,6 +27,11 @@ Research Experience
    - Conduct accurate computational and statistical analysis of data in Prism software
    - Develop figures for conferences and papers using Adobe Photoshop and Adobe Illustrator
    
+   
+* Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+                  
 Relevant Work Experience
 ======
 * Pharmacy Technician : Dec. 2017 - July 2021
