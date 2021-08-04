@@ -20,15 +20,13 @@ Research Experience
 * Research Assistant : Sept. 2018 - April 2021 
   * Grimsey Lab
   * Principal Investigator: Neil Grimsey, Ph.D.
-
-Duties included:
- * Develop FRET biosensors using molecular cloning techniques including:
- * Culture EA cells, HEK 293 cells, HeLa cells, and retinal organoids with aseptic tissue culture techniques
- * Design and conduct FRET assays, signaling assays, siRNA knockdowns, protein purification, and western blotting
- * Image and assess cells transfected with fluorescent biosensors using confocal microscopy techniques
- * Conduct accurate computational and statistical analysis of data in Prism software
- * Develop figures for conferences and papers using Adobe Photoshop and Adobe Illustrator
-
+ Duties included: 
+      * Develop FRET biosensors using molecular cloning techniques including:
+      * Design and conduct FRET assays, signaling assays, siRNA knockdowns, protein purification, and western blotting
+      * Image and assess cells transfected with fluorescent biosensors using confocal microscopy techniques
+      * Conduct accurate computational and statistical analysis of data in Prism software
+      * Develop figures for conferences and papers using Adobe Photoshop and Adobe Illustrator
+   
 Relevant Work Experience
 ======
 * Pharmacy Technician : Dec. 2017 - July 2021
@@ -38,7 +36,7 @@ Relevant Work Experience
       * Calculate and dispense prescription medications
       * Enter patient profiles and prescriptions into input software system
       * Check pharmacy inventory and manage orders
-      * Answer patient questions and report adverse drug reactinos
+      * Answer patient questions and report adverse drug reactions
   
 Honors & Awards
 ======
