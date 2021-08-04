@@ -35,7 +35,7 @@ Work experience
   *   Answer patient questions and report adverse drug reactinos
   * Pharmacy Manager: Tracey Lipscombe, Pharm.D.
   
-SKILLS
+Skills
 ======
 * Research
   * Confocal Microscopy
