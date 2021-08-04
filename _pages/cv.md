@@ -18,7 +18,6 @@ Education
 Research Experience
 ======
 * **Research Assistant at Grimsey Lab** : Sept. 2018 - April 2021 
-* Duties Included:
   * Develop FRET biosensors using molecular cloning techniques including:
   * Design and conduct FRET assays, signaling assays, siRNA knockdowns, protein purification, and western blotting
   * Image and assess cells transfected with fluorescent biosensors using confocal microscopy techniques
@@ -28,7 +27,6 @@ Research Experience
 Relevant Work Experience
 ======
   * **Pharmacy Technician at Publix Pharmacy** : Dec. 2017 - July 2021
-  * Duties Incuded:
      * Calculate and dispense prescription medications
      * Enter patient profiles and prescriptions into input software system
      * Check pharmacy inventory and manage orders
