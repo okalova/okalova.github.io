@@ -21,17 +21,12 @@ Research Experience
   * Grimsey Lab
   * Principal Investigator: Neil Grimsey, Ph.D.
   * Duties included: 
-   - Develop FRET biosensors using molecular cloning techniques including:
-   - Design and conduct FRET assays, signaling assays, siRNA knockdowns, protein purification, and western blotting
-   - Image and assess cells transfected with fluorescent biosensors using confocal microscopy techniques
-   - Conduct accurate computational and statistical analysis of data in Prism software
-   - Develop figures for conferences and papers using Adobe Photoshop and Adobe Illustrator
+   * Develop FRET biosensors using molecular cloning techniques including:
+   * Design and conduct FRET assays, signaling assays, siRNA knockdowns, protein purification, and western blotting
+   * Image and assess cells transfected with fluorescent biosensors using confocal microscopy techniques
+   * Conduct accurate computational and statistical analysis of data in Prism software
+   * Develop figures for conferences and papers using Adobe Photoshop and Adobe Illustrator
    
-   
-* Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-                  
 Relevant Work Experience
 ======
 * Pharmacy Technician : Dec. 2017 - July 2021
