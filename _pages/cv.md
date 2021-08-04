@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum vitae"
+title: "CURRICULUM VITAE"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,33 +10,37 @@ redirect_from:
 {% include base_path %}
 
 
-EDUCATION
+Education
 ======
 * Ph.D in Molecular & Systems Pharmacology, Emory University, 2027 (expected)
 * B.S. in Pharmaceutical Sciences, University of Georgia College of Pharmacy, 2021
 
-RESEARCH EXPERIENCE
+Research Experience
 ======
 * Research Assistant : Sept. 2018 - April 2021 
   * Grimsey Lab
-  * Duties included:
-  *     Develop FRET biosensors using molecular cloning techniques including:
-       Culture EA cells, HEK 293 cells, HeLa cells, and retinal organoids with aseptic tissue culture techniques.   
-       
   * Principal Investigator: Neil Grimsey, Ph.D.
 
-RELEVANT WORK EXPERIENCE
+Duties included:
+ * Develop FRET biosensors using molecular cloning techniques including:
+ * Culture EA cells, HEK 293 cells, HeLa cells, and retinal organoids with aseptic tissue culture techniques
+ * Design and conduct FRET assays, signaling assays, siRNA knockdowns, protein purification, and western blotting
+ * Image and assess cells transfected with fluorescent biosensors using confocal microscopy techniques
+ * Conduct accurate computational and statistical analysis of data in Prism software
+ * Develop figures for conferences and papers using Adobe Photoshop and Adobe Illustrator
+
+Relevant Work Experience
 ======
 * Pharmacy Technician : Dec. 2017 - July 2021
   * Publix Pharmacy
-  * Duties included: 
-      *Calculate and dispense prescription medications
-      *Enter patient profiles and prescriptions into input software system
-      *Check pharmacy inventory and manage orders
-      *Answer patient questions and report adverse drug reactinos
   * Pharmacy Manager: Tracey Lipscombe, Pharm.D.
+ Duties included: 
+      * Calculate and dispense prescription medications
+      * Enter patient profiles and prescriptions into input software system
+      * Check pharmacy inventory and manage orders
+      * Answer patient questions and report adverse drug reactinos
   
-HONORS AND AWARDS
+Honors & Awards
 ======
 * Richard A. Bryan Scholarship for Excellence in the Pharmaceutical Sciences : 2020
 * Travel Award for Experimental Biology Conference : 2020
@@ -44,18 +48,18 @@ HONORS AND AWARDS
 * Center for Undergradaute Research Opportunities (CURO) Summer Fellow : 2019
 * Center for Undergraduate Research Opportunities (CURO) Research Assistantship : 2018
  
-PROFESSIONAL ASSOCIATIONS
+Professional Associations
 ======
 * American Society for Pharmacology Member - since 2019
 * American Society for Biochemistry and Molecular Biology Member - since 2019
 
-PUBLICATIONS
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-CONFERENCES
+Conferences
 ======
 * Poster Presentations
   * insert 1 here
@@ -64,7 +68,7 @@ CONFERENCES
   * insert 1 here
   * insert 2 here
   
-SKILLS
+Skills
 ======
 * Research
   * Confocal Microscopy
