@@ -17,22 +17,18 @@ Education
 
 Research Experience
 ======
-* Research Assistant : Sept. 2018 - April 2021 
-   * Grimsey Lab
-   * Principal Investigator: Neil Grimsey, Ph.D.
-   * Duties included ...
-                - Develop FRET biosensors using molecular cloning techniques including:
-                - Design and conduct FRET assays, signaling assays, siRNA knockdowns, protein purification, and western blotting
-                - Image and assess cells transfected with fluorescent biosensors using confocal microscopy techniques
-                - Conduct accurate computational and statistical analysis of data in Prism software
-                - Develop figures for conferences and papers using Adobe Photoshop and Adobe Illustrator
+* **Research Assistant at Grimsey Lab** : Sept. 2018 - April 2021 
+* Duties Included:
+  * Develop FRET biosensors using molecular cloning techniques including:
+  * Design and conduct FRET assays, signaling assays, siRNA knockdowns, protein purification, and western blotting
+  * Image and assess cells transfected with fluorescent biosensors using confocal microscopy techniques
+  * Conduct accurate computational and statistical analysis of data in Prism software
+  * Develop figures for conferences and papers using Adobe Photoshop and Adobe Illustrator
 
 Relevant Work Experience
 ======
-Pharmacy Technician : Dec. 2017 - July 2021
-  * Publix Pharmacy
-  * Pharmacy Manager: Tracey Lipscombe, Pharm.D.
-  * Duties included ...
+  * **Pharmacy Technician at Publix Pharmacy** : Dec. 2017 - July 2021
+  * Duties Incuded:
      * Calculate and dispense prescription medications
      * Enter patient profiles and prescriptions into input software system
      * Check pharmacy inventory and manage orders
