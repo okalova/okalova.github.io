@@ -34,11 +34,11 @@ Relevant Work Experience
   
 Honors & Awards
 ======
-* Richard A. Bryan Scholarship for Excellence in the Pharmaceutical Sciences : 2020
-* Travel Award for Experimental Biology Conference : 2020
-* Experiential Learning Scholar : 2019
-* Center for Undergradaute Research Opportunities (CURO) Summer Fellow : 2019
-* Center for Undergraduate Research Opportunities (CURO) Research Assistantship : 2018
+* **Richard A. Bryan Scholarship for Excellence in the Pharmaceutical Sciences** *2020
+* **Travel Award for Experimental Biology Conference** : *2020
+* **Experiential Learning Scholar** : *2019
+* **Center for Undergradaute Research Opportunities (CURO) Summer Fellow** *2019
+* **Center for Undergraduate Research Opportunities (CURO) Research Assistantship** *2018
  
 Professional Associations
 ======
@@ -53,29 +53,25 @@ Publications
   
 Conferences
 ======
-* **Experimental Biology Conference**
+* **Experimental Biology Conference** *April 2020
   * Development of Novel FRET Biosensors to Detect Kinase Activity in Living Cells
   * Poster Presentation
   * San Diego, California
-  * April 2020
 
-* **Georgia Undergraduate Research Conference** 
+* **Georgia Undergraduate Research Conference** *November 2019
   * Development of Novel FRET Biosensors to Detect Kinase Activity in Living Cells
   * Oral Presentation
   * Gainesville, GA
-  * November 2019
 
-* **CURO Summer Fellowship Symposium** 
+* **CURO Summer Fellowship Symposium**  *July 2019
   * Development of Novel FRET Biosensors to Detect Kinase Activity in Living Cells
   * Oral Presentation
   * Athens, GA
-  * July 2019
 
-* **CURO Sympsoium** 
+* **CURO Sympsoium** *April 2019
   * Development of Novel FRET Biosensors to Detect Kinase Activity in Living Cells
   * Poster Presentation
   * Athens, GA
-  * April 2019
   
 Skills
 ======
