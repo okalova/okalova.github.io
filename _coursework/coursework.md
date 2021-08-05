@@ -15,7 +15,7 @@ Emory University
   * insert course here
  
 
-University of Georgia 
+University of Georgia
 ======
 * **College of Pharmacy Relevant Coursework**
   * Biological Therapeutics
