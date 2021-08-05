@@ -58,7 +58,6 @@ Conferences
   * Poster Presentation
   * San Diego, California
   * April 2020
-  * https://doi.org/10.1096/fasebj.2020.34.s1.04036
 
 * **Georgia Undergraduate Research Conference** 
   * Development of Novel FRET Biosensors to Detect Kinase Activity in Living Cells
@@ -72,7 +71,7 @@ Conferences
   * Athens, GA
   * July 2019
 
-* **CURO Sympsoium* 
+* **CURO Sympsoium** 
   * Development of Novel FRET Biosensors to Detect Kinase Activity in Living Cells
   * Poster Presentation
   * Athens, GA
