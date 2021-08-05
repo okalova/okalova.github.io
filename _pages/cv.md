@@ -53,25 +53,17 @@ Publications
   
 Conferences
 ======
-* **Experimental Biology Conference** *April 2020
-  * Development of Novel FRET Biosensors to Detect Kinase Activity in Living Cells
+* **Experimental Biology Conference**, April 2020
   * Poster Presentation
-  * San Diego, California
 
-* **Georgia Undergraduate Research Conference** *November 2019
-  * Development of Novel FRET Biosensors to Detect Kinase Activity in Living Cells
+* **Georgia Undergraduate Research Conference**, November 2019
   * Oral Presentation
-  * Gainesville, GA
 
-* **CURO Summer Fellowship Symposium**  *July 2019
-  * Development of Novel FRET Biosensors to Detect Kinase Activity in Living Cells
+* **CURO Summer Fellowship Symposium**, July 2019
   * Oral Presentation
-  * Athens, GA
 
-* **CURO Sympsoium** *April 2019
-  * Development of Novel FRET Biosensors to Detect Kinase Activity in Living Cells
+* **CURO Sympsoium**, April 2019
   * Poster Presentation
-  * Athens, GA
   
 Skills
 ======
