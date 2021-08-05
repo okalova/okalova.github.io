@@ -14,6 +14,7 @@ Education
 ======
 * Ph.D in Molecular & Systems Pharmacology, Emory University, 2027 (expected)
 * B.S. in Pharmaceutical Sciences, University of Georgia College of Pharmacy, 2021
+  * Minors in Biology & Spanish 
 
 Research Experience
 ======
@@ -34,16 +35,16 @@ Relevant Work Experience
   
 Honors & Awards
 ======
-* **Richard A. Bryan Scholarship for Excellence in the Pharmaceutical Sciences** *2020
-* **Travel Award for Experimental Biology Conference** : *2020
-* **Experiential Learning Scholar** : *2019
-* **Center for Undergradaute Research Opportunities (CURO) Summer Fellow** *2019
-* **Center for Undergraduate Research Opportunities (CURO) Research Assistantship** *2018
+* **Richard A. Bryan Scholarship for Excellence in the Pharmaceutical Sciences**, 2020
+* **Travel Award for Experimental Biology Conference**, 2020
+* **Experiential Learning Scholar**, 2019
+* **Center for Undergradaute Research Opportunities (CURO) Summer Fellow**, 2019
+* **Center for Undergraduate Research Opportunities (CURO) Research Assistantship**, 2018
  
 Professional Associations
 ======
-* American Society for Pharmacology Member - since 2019
-* American Society for Biochemistry and Molecular Biology Member - since 2019
+* **American Society for Pharmacology Member** since 2019
+* **American Society for Biochemistry and Molecular Biology Member** since 2019
 
 Publications
 ======
