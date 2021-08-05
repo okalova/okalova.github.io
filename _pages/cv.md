@@ -53,13 +53,27 @@ Publications
   
 Conferences
 ======
-* Poster Presentations
-  * insert 1 here
-  * insert 2 here
-* Oral Presentations
-  * insert 1 here
-  * insert 2 here
+* **Development of Novel FRET Biosensors to Detect Kinase Activity in Living Cells** : poster presentation
+  * Experimental Biology Conference
+  * April 2020
+  * San Diego, California
+  * https://doi.org/10.1096/fasebj.2020.34.s1.04036
+
+* **Development of Novel FRET Biosensors to Detect Kinase Activity in Living Cells** : oral presentation
+  * Georgia Undergraduate Research Conference
+  * November 2019
+  * Gainesville, GA
+
+* **Development of Novel FRET Biosensors to Detect Kinase Activity in Living Cells** : oral presentation
+  * CURO Summer Fellowship Symposium 
+  * July 2019
+  * Athens, GA
   
+* **Development of Novel FRET Biosensors to Detect Kinase Activity in Living Cells** : poster presentation
+  * CURO Symposium 
+  * April 2019
+  * Athens, GA
+
 Skills
 ======
 * **Research**
