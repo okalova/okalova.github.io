@@ -62,21 +62,21 @@ Conferences
   
 Skills
 ======
-* Research
+* **Research**
   * Confocal Microscopy
   * Mammalian Tissue Culture
   * Western Blotting
   * Molecular Cloning
   * Prism Computational Analysis
   * Illustrator Figure Making
-* Industry
+* **Industry**
   * Good Manufacturing Practices
   * Good Documentation Practices
   * Batch Records
   * Quality Control Tests
   * FTIR Spectroscopy
   * Thermal Analysis (TGA & DSC)
-* Languages
+* **Languages**
   * Slovak - Native Fluency
   * English - Native Fluency
   * Spanish - Native Fluency
