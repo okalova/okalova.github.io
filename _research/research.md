@@ -14,6 +14,8 @@ author_profile: true
   * As a first year Ph.D. student, I am currently doing 10-week long rotations in 3 different labs.
   * Research experiences from each rotation will be added below upon completion.
 
+
+
 * **Research Assistant at Grimsey Lab** : Sept. 2018 - April 2021 
   * Developed FRET biosensors using molecular cloning techniques including: *PCR amplifications, bacterial transformations, DNA sequencing, digests, ligations, and isolation* 
   * Designed and conducted FRET assays, signaling assays, siRNA knockdowns, protein purification, and western blotting
