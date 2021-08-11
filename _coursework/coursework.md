@@ -11,8 +11,9 @@ author_profile: true
 ## Emory University ##
 
 * **Molecular & Systems Pharmacology Graduate Program Coursework**
-  * insert course here
-  * insert course here
+  * Introduction to Molecular & Systems Pharmacology I - *in progress
+  * Ethical Issues in Pharmacology - *in progress
+  * Jones Program in Ethics - *in progress
  
 
 ## University of Georgia ##
