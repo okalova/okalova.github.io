@@ -10,14 +10,14 @@ redirect_from:
 {% include base_path %}
 
 
-Education
-======
+## Education ##
+
 * Ph.D in Molecular & Systems Pharmacology, Emory University, 2027 (expected)
 * B.S. in Pharmaceutical Sciences, University of Georgia College of Pharmacy, 2021
   * Minors in Biology & Spanish 
 
-Research Experience
-======
+## Research Experience ##
+
 * **Research Assistant at Grimsey Lab** : Sept. 2018 - April 2021 
   * Develop FRET biosensors using molecular cloning techniques including:
   * Design and conduct FRET assays, signaling assays, siRNA knockdowns, protein purification, and western blotting
@@ -25,35 +25,35 @@ Research Experience
   * Conduct accurate computational and statistical analysis of data in Prism software
   * Develop figures for conferences and papers using Adobe Photoshop and Adobe Illustrator
 
-Relevant Work Experience
-======
+## Relevant Work Experience ##
+
   * **Pharmacy Technician at Publix Pharmacy** : Dec. 2017 - July 2021
      * Calculate and dispense prescription medications
      * Enter patient profiles and prescriptions into input software system
      * Check pharmacy inventory and manage orders
      * Answer patient questions and report adverse drug reactions
   
-Honors & Awards
-======
+## Honors & Awards ##
+
 * **Richard A. Bryan Scholarship for Excellence in the Pharmaceutical Sciences**, 2020
 * **Travel Award for Experimental Biology Conference**, 2020
 * **Experiential Learning Scholar**, 2019
 * **Center for Undergradaute Research Opportunities (CURO) Summer Fellow**, 2019
 * **Center for Undergraduate Research Opportunities (CURO) Research Assistantship**, 2018
  
-Professional Associations
-======
+## Professional Associations ##
+
 * **American Society for Pharmacology Member** since 2019
 * **American Society for Biochemistry and Molecular Biology Member** since 2019
 
-Publications
-======
+## Publications ##
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Conferences
-======
+## Conferences ##
+
 * **Experimental Biology Conference**, April 2020
   * Poster Presentation
 
@@ -66,8 +66,8 @@ Conferences
 * **CURO Sympsoium**, April 2019
   * Poster Presentation
   
-Skills
-======
+## Skills ##
+
 * **Research**
   * Confocal Microscopy
   * Mammalian Tissue Culture
