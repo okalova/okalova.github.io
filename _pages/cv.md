@@ -19,19 +19,19 @@ redirect_from:
 ## Research Experience ##
 
 * **Research Assistant at Grimsey Lab** : Sept. 2018 - April 2021 
-  * Develop FRET biosensors using molecular cloning techniques including:
-  * Design and conduct FRET assays, signaling assays, siRNA knockdowns, protein purification, and western blotting
-  * Image and assess cells transfected with fluorescent biosensors using confocal microscopy techniques
-  * Conduct accurate computational and statistical analysis of data in Prism software
-  * Develop figures for conferences and papers using Adobe Photoshop and Adobe Illustrator
+  * Developed FRET biosensors using molecular cloning techniques including: *PCR amplifications, bacterial transformations, DNA sequencing, digests, ligations, and isolation 
+  * Designed and conducted FRET assays, signaling assays, siRNA knockdowns, protein purification, and western blotting
+  * Imaged and assessed cells transfected with fluorescent biosensors using confocal microscopy techniques
+  * Conducted accurate computational and statistical analysis of data in Prism software
+  * Developed figures for conferences and papers using Adobe Photoshop and Adobe Illustrator
 
 ## Relevant Work Experience ##
 
   * **Pharmacy Technician at Publix Pharmacy** : Dec. 2017 - July 2021
-     * Calculate and dispense prescription medications
-     * Enter patient profiles and prescriptions into input software system
-     * Check pharmacy inventory and manage orders
-     * Answer patient questions and report adverse drug reactions
+     * Calculated and dispense prescription medications
+     * Entered patient profiles and prescriptions into input software system
+     * Checked pharmacy inventory and managed orders
+     * Answered patient questions and reported adverse drug reactions
   
 ## Honors & Awards ##
 
