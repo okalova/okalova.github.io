@@ -8,15 +8,15 @@ author_profile: true
 {% include base_path %}
 
 
-Emory University 
-======
+## Emory University ##
+
 * **Molecular & Systems Pharmacology Graduate Program Coursework**
   * insert course here
   * insert course here
  
 
-University of Georgia
-======
+## University of Georgia ##
+
 * **College of Pharmacy Relevant Coursework**
   * Biological Therapeutics
   * Advanced Drug Delivery Systems
