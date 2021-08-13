@@ -9,6 +9,6 @@ author_profile: true
 
 ## Let's Get In Touch ##
 
-Please contact me about potential collaborations, a physical copy of my CV, or with questions regarding my research/studies!
+Please contact me for collaborations, a digital copy of my CV, or with any questions regarding my research/studies.
 * Email : jennifer.okalova@emory.edu
 * Linkedin: www.linkedin.com/in/jenniferokalova
