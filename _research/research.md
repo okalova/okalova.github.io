@@ -17,8 +17,12 @@ author_profile: true
 
 
 * **Research Assistant at Grimsey Lab** : Sept. 2018 - April 2021 
-  * Developed FRET biosensors using molecular cloning techniques including: *PCR amplifications, bacterial transformations, DNA sequencing, digests, ligations, and isolation* 
-  * Designed and conducted FRET assays, signaling assays, siRNA knockdowns, protein purification, and western blotting
-  * Imaged and assessed cells transfected with fluorescent biosensors using confocal microscopy techniques
-  * Conducted accurate computational and statistical analysis of data in Prism software
-  * Developed figures for conferences and papers using Adobe Photoshop and Adobe Illustrator
+As a research assistant in the Grimsey Lab, I helped develop a subcellular targeted fluorescence resonance energy transfer (FRET) biosensor platform to assess the spatiotemporal activation of atypical p38 signaling. 
+
+🔬Each FRET biosensor consisted of a…
+  * Cyan fluorescent protein (CFP) 
+  * Yellow fluorescent protein (YFP)
+  * Linker peptide that changes conformation upon phosphorylation by p38
+  * Nuclear, plasma membrane, or diffuse/cytosolic targeting motifs
+
+These FRET biosensors enabled real-time detection of p38 kinase activity at specific organelles by measuring changes in fluorescence ratios. When in close proximity, CFP will donate energy to YFP, changing the mean fluorescent from 485 to 527 nm. After developing the FRET biosensors, I then worked to characterize specific variances in spatiotemporal GPCR dependent activation of p38.
