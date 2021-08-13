@@ -6,8 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
-====== 
+--- 
 - ## 👩🏻‍🔬 Hi there, my name is Jennifer. ##
 
 - 🧬 I am Ph.D. student studying Molecular & Systems Pharmacology at Emory University.
