@@ -187,6 +187,9 @@ collections:
   conferences:
     output: true
     permalink: /:collection/:path/
+  contact:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -236,6 +239,15 @@ defaults:
       share: true
       comment: true
   # _coursework
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+   # _contact
   - scope:
       path: ""
       type: portfolio
