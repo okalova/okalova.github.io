@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-## Research Experience ##
+## Research Projects ##
 
 **Research Rotations at Emory University** : Aug. 2021 - present
 * As a first year Ph.D. student, I am currently doing 10-week long rotations in 3 different labs.
