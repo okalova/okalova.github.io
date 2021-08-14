@@ -12,7 +12,7 @@ redirect_from:
 
 ## Education ##
 
-* Ph.D in Molecular & Systems Pharmacology, Emory University, 2027 (expected)
+* Ph.D. in Molecular & Systems Pharmacology, Emory University, 2027 (expected)
 * B.S. in Pharmaceutical Sciences, University of Georgia College of Pharmacy, 2021
   * Minors in Biology & Spanish 
 
