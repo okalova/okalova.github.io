@@ -43,8 +43,8 @@ redirect_from:
  
 ## Professional Associations ##
 
-* **American Society for Pharmacology Member** since 2019
-* **American Society for Biochemistry and Molecular Biology Member** since 2019
+* **American Society for Pharmacology & Experimental Therapeutics (ASPET) Member** since 2019
+* **American Society for Biochemistry and Molecular Biology (ASBMB) Member** since 2019
 
 ## Publications ##
 
