@@ -12,7 +12,7 @@ author_profile: true
 
 **Research Rotations at Emory University** : Aug. 2021 - present
 * As a first year Ph.D. student, I am currently doing 10-week long rotations in 3 different labs.
-* Research experiences from each rotation will be added below upon completion.
+* Research project descriptions from each rotation will be added below upon completion.
 
 
 **Research Assistant at Grimsey Lab** : Sept. 2018 - April 2021 
