@@ -28,7 +28,7 @@ redirect_from:
 ## Relevant Work Experience ##
 
   * **Pharmacy Technician at Publix Pharmacy** : Dec. 2017 - July 2021
-     * Calculated and dispense prescription medications
+     * Calculated and dispensed prescription medications
      * Entered patient profiles and prescriptions into input software system
      * Checked pharmacy inventory and managed orders
      * Answered patient questions and reported adverse drug reactions
