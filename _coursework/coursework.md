@@ -11,14 +11,15 @@ author_profile: true
 ## Emory University ##
 
 * **Molecular & Systems Pharmacology Graduate Program Coursework**
-  * Introduction to Molecular & Systems Pharmacology I - *in progress*
+  * Principles in Pharmacology I - *in progress*
   * Ethical Issues in Pharmacology - *in progress*
+  * Graduate Seminar - *in progress*
   * Jones Program in Ethics - *in progress*
  
 
-## University of Georgia ##
+## University of Georgia College of Pharmacy##
 
-* **College of Pharmacy Relevant Coursework**
+* **Relevant Coursework**
   * Biological Therapeutics
   * Advanced Drug Delivery Systems
   * Pharmaceutical Drug Development
@@ -26,5 +27,6 @@ author_profile: true
   * Introduction to Pharmacology
   * Medicinal Chemistry
   * Human Physiology
+  * Biochemistry
   * Biostatistics
   * Calculus I and II for Science & Engineering
