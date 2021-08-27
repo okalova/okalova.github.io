@@ -17,7 +17,7 @@ author_profile: true
   * Jones Program in Ethics - *in progress*
  
 
-## University of Georgia College of Pharmacy##
+## University of Georgia College of Pharmacy ##
 
 * **Relevant Coursework**
   * Biological Therapeutics
