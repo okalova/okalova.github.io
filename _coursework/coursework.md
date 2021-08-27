@@ -14,7 +14,7 @@ author_profile: true
   * Principles in Pharmacology I - *in progress*
   * Ethical Issues in Pharmacology - *in progress*
   * Graduate Seminar - *in progress*
-  * Jones Program in Ethics - *in progress*
+  * Jones Program in Ethics 
  
 
 ## University of Georgia College of Pharmacy ##
