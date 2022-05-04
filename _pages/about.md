@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 --- 
-## Hi there, my name is Jennifer and I am a Molecular Systems Pharmacology Ph.D. Student at Emory University . ##
+## Hi there, my name is Jennifer and I am a Pharmacology Ph.D. Student at Emory University . ##
 
 * 🧬 I am conducting research in the Spencer Lab at the AFLAC Pediatric Cancer & Blood Disorders Center of Children's Healthcare of Atlanta. 
 * 🔬 At the Spencer Lab I am studying hematopoietic stem cell gene therapy for Hemophilia A as well as Sickle Cell Disease.
