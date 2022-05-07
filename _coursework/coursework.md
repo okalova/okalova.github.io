@@ -13,6 +13,7 @@ author_profile: true
 * **Molecular & Systems Pharmacology Graduate Program Coursework**
   * Principles in Pharmacology I
   * Principles in Pharmacology II
+  * Statistical Design & Analysis of Experiments
   * Ethical Issues in Pharmacology 
   * Jones Program in Ethics 
   * Graduate Seminar
