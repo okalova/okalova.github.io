@@ -18,12 +18,26 @@ redirect_from:
 
 ## Research Experience ##
 
+* **Graduate Researcher at Spencer Lab** : Feb. 2022 - Present 
+  * Conduct Sca-1+ cell isolation, culturing, and transduction in preparation for transplant
+  * Perform HSC transplantation into conditioned mice
+
+**Hepler Lab Rotation** : Nov. 2021 - Feb. 2021 
+  * Performed protein purification of RGS14 and Gαi1-GDP using size-exclusion runs 
+  * Characterized RGS14 and Gαi1-GDP through immunoblot analysis 
+  * Conducted immunoprecipitations of pure proteins to validate their binding
+
+**Read Lab Rotation** : Sept. 2021 - Nov. 2021 
+  * Monitored RCAS-TVA mouse model for GBM and perform brain dissections 
+  * Cultured primary neurospheres with aseptic tissue culture techniques
+  * Screened preliminary high throughput RNA-Seq data to identify candidate target transcripts
+  * Performed western blots and qPCR to assess selected candidate target transcripts
+  * Designed and conducted RNA immunoprecipitations to validate transcripts as direct targets of IMP3
+
 * **Research Assistant at Grimsey Lab** : Sept. 2018 - April 2021 
   * Developed FRET biosensors using molecular cloning techniques including: *PCR amplifications, bacterial transformations, DNA sequencing, digests, ligations, and isolation* 
   * Designed and conducted FRET assays, signaling assays, siRNA knockdowns, protein purification, and western blotting
   * Imaged and assessed cells transfected with fluorescent biosensors using confocal microscopy techniques
-  * Conducted accurate computational and statistical analysis of data in Prism software
-  * Developed figures for conferences and papers using Adobe Photoshop and Adobe Illustrator
 
 ## Relevant Work Experience ##
 
@@ -69,19 +83,21 @@ redirect_from:
 ## Skills ##
 
 * **Research**
-  * Confocal Microscopy
+  * Mouse Models/Handling: *Retroorbital Bleeds, Retroorbital Injections, Intraperitoneal Injections
+  * Hematopoietic Stem Cell Transplants
   * Mammalian Tissue Culture
+  * Confocal Microscopy
   * Western Blotting
   * Molecular Cloning
-  * Prism Computational Analysis
+  * Computational Analysis in R and Prism
   * Illustrator Figure Making
+  
 * **Industry**
   * Good Manufacturing Practices
   * Good Documentation Practices
-  * Batch Records
   * Quality Control Tests
-  * FTIR Spectroscopy
-  * Thermal Analysis (TGA & DSC)
+  * Batch Records
+  
 * **Languages**
   * Slovak - Native Fluency
   * English - Native Fluency
